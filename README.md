@@ -1,5 +1,5 @@
 # libraries
-<h2>📚 React Practice Library for Community Contribution<h2/> <br/>
+📚 React Practice Library for Community Contribution <br/>
 Welcome to the React Practice Library – a community-driven initiative crafted to help developers practice and explore additional powerful libraries within the React ecosystem.
 
 🎯 Purpose
